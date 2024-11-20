@@ -1,0 +1,69 @@
+Servlet Interview Questions:-
+
+1. What is an Application? What are the different types of application ?
+
+2. What is a StandAlone Application ?
+
+3. What is a Web-based Application ?
+
+4. What are the types of Web-based Applications ? Explain.
+
+5. Explain all the web architetures ?
+
+6. What is an API ?
+
+7. What is a Server?
+
+8. What are the different types of Servers ? Explain.
+
+9. What is an URL ?
+
+10. What is the components present in an URL ?
+
+11. What is a Servlet?
+
+12. What is Servlet Interface ?
+
+13. What are the unimplemented methods in Servlet Interface ? Explain
+
+14. What is Generic Servlet ?
+
+15. What are the steps to configure a Static Request ?
+
+16. What are the steps to configure a Dynamic Request ?
+
+17. What is the method used to receive the inputs from the view files ?
+
+18. What is the returntype of getParameterMethod() ?
+
+19. What is Servlet Request & Servlet Response ?
+
+20. What is PrintWriter ?
+
+21. How can we create an object of PrintWriter ?
+
+22. What is HttpServlet ?
+
+23. What is the difference between GenericServlet and HttpServlet?
+
+24. What are the methods present in HttpServlet ?
+
+25. What is JSP?
+
+26. What is the difference between HTML & JSP ?
+
+27. What are the tags used in JSP? Explain
+
+28. What is RequestDispatcher ?
+
+29. What is the method used to create an object of RequestDispatcher ?
+
+30. What are the methods in RequestDispatcher used to carry the data to next layer ?
+
+31. What is the use of sendRedirect() method ?
+
+32. What is the difference between forward() and include() method of RequestDispatcher.
+
+33. What are the differences between RequestDispatcher and sendRedirect() ?
+
+34. Explain Lifecycle of a Servlet.
